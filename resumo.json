@@ -1,9 +1,9 @@
 {
-  "rodada_em": "2026-11-08T08:08:56-03:00",
-  "vencidas": 1,
+  "rodada_em": "2026-11-09T08:08:13-03:00",
+  "vencidas": 3,
   "a_vencer_30_dias": 5,
-  "proximo_prazo": "2026-11-18",
-  "proximo_prazo_tipo": "prazo",
-  "caixa_abertas": 7,
+  "proximo_prazo": "2026-11-19",
+  "proximo_prazo_tipo": "nota",
+  "caixa_abertas": 11,
   "link": "https://github.com/marcioirala-foto/ai-studio-empresa"
 }
